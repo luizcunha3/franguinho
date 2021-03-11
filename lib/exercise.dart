@@ -75,7 +75,6 @@ class Exercise extends StatelessWidget {
                           number: weight,
                         ))
                       : SizedBox(),
-                  //teste
                 ],
               )
             ],
